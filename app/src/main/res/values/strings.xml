@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SFinder</string>
+
+    <!-- SPLASH SCREEN -->
+    <string name="splash_loadingText">Chargement des positions</string>
+    <string name="splash_imageDesc">SFinder logo</string>
+    <string name="splash_toastNoLocation">Cette application ne peut pas fonctionner sans votre locatisation</string>
+    <string name="splash_toastNoWifi">Impossible de se connecter au serveur</string>
+
+
+
+    <!-- MAIN SCREEN -->
+    <string name="main_appName">[S] Finder</string>
+    <string name="main_toastNoGPS">Allumez votre GPS</string>
+    <string name="main_toastRefuseNewLocations">Ajout impossible sans la caméra</string>
+
+
+    <!-- ADD SCREEN -->
+    <string name="add_titleText">Nouveau [S]</string>
+    <string name="add_inputHint">Texte accompagnant</string>
+    <string name="add_addButtonText">Ajouter</string>
+    <string name="add_cancelButtonText">Annuler</string>
+    <string name="add_toastLocationAdded">[S] ajouté à la base de données</string>
+    <string name="add_explanationText">Si vous avez vu du texte accompagant le tag, renseignez le ici.</string>
+
+
+    <!-- INFO SCREEN -->
+    <string name="info_titleText">description du [S]</string>
+    <string name="info_textDescription">Texte d\'accompagnement</string>
+    <string name="info_noAccText">Pas de texte</string>
+    <string name="info_backButtonText">Retour</string>
+    <string name="info_noWifi">Impossible de charger l\'image</string>
+
+
+    <!-- ABOUT SCREEN -->
+    <string name="about_title">à propos</string>
+    <string name="about_link">Pour en savoir plus sur nos projets: <a href="https://regucorp.tk/sfinder">Taper ici</a></string>
+    <string name="about_backBtnText">Retour</string>
+    <string name="about_text">Depuis quelques années maintenant des tags sont apparus aux quatres coins de Nantes. Ces tags montrent tous un même symbole, qui ressemble à ceci: <b>[S]</b>. Des fois ces tags apparaissent accompagnés de quelques mots.\n\nSFinder a donc été créé dans le but de répertorier la position de ces tags afin d\'en savoir plus sur ces messages mystérieux.
+    </string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_titleSize">24sp</dimen>
+    <dimen name="default_imageSize">270dp</dimen>
+    <dimen name="default_buttonWidth">120dp</dimen>
+    <dimen name="default_circleButtonSize">50dp</dimen>
+
+    <!-- SPLASH SCREEN -->
+    <dimen name="splash_imageSize">200dp</dimen>
+
+    <!-- ADD & INFO SCREEN -->
+    <dimen name="view_textBoxWidth">220dp</dimen>
+    <dimen name="view_buttonPadding">25dp</dimen>
+    <dimen name="view_buttonMargin">120dp</dimen>
+</resources>
