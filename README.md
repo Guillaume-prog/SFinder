@@ -9,3 +9,5 @@ This is an android app developed for people living in Nantes (France) that like 
 
 You can download the app on android 8+ from the [Google Play Store](https://play.google.com/store/apps/details?id=dev.regucorp.sfinder)
 
+**UPDATE** - The server for storing the access points is now offline, the app is no longer usable
+
